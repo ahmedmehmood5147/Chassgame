@@ -1,0 +1,83 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+.Box1 {
+    height: 180px;
+    width: 180px;
+    background-color: rgb(253, 245, 229);
+    
+}
+.Box2 {
+    height: 180px;
+    width: 180px;
+    background-color: rgb(19, 158, 19);
+}
+.Main_Box {
+    display: flex;
+}
+.image1 {
+    height: 100%;
+    width: 100%;
+}
+.Table1 {
+    background-color: wheat;
+    height: 180px;
+    width: 180px;
+}
+.Table2 {
+    background-color: rgb(19, 158, 19);
+    height: 180px;
+    width: 180px;
+}
+.Table3 {
+    height: 180px;
+    width: 180px;
+    background-color: wheat;
+}
+.Table4 {
+    height: 180px;
+    width: 180px;
+    background-color: rgb(19, 158, 19);
+}
+.box1 {
+    height: 180px;
+    width: 180px;
+    background-color: wheat;
+    position: relative;
+
+}
+.position_image1 {
+    position: absolute;
+    top: 2px;
+    height: 180px;
+    width: 180px;
+}
+.box2 {
+    height: 180px;
+    width: 180px;
+    background-color: rgb(19, 158, 19);
+    position: relative;
+}
+.Head {
+    display: flex;
+}
+.position_image2 {
+    position: absolute;
+    top: 2px;
+    height: 180px;
+    width: 180px;
+}
+.empty_box {
+    height: 180px;
+    width: 180px;
+    background-color: wheat;
+}
+.empty_box2 {
+    height: 180px;
+    width: 180px;
+    background-color: rgb(19, 158, 19);
+}
+.empty_box_header {
+    display: flex;
+}
